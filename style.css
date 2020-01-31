@@ -32,7 +32,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #e0a5fc;
+  color: #f7e8e8;
   font-weight: 300; }
 
 p {
@@ -67,7 +67,7 @@ a {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #d499f0;
+  background-color: #ebdcdc;
   position: fixed;
   width: 100%;
   height: 100%;
@@ -241,7 +241,7 @@ img {
   top: 10px; }
 
 #scrollUp {
-  background-color: #d499f0;
+  background-color: #ebdcdc;
   border-radius: 50%;
   bottom: 60px;
   right: 60px;
@@ -309,7 +309,7 @@ img {
   .section-heading .line {
     width: 100px;
     height: 1px;
-    background-color: #d499f0;
+    background-color: #ebdcdc;
     margin-bottom: 30px;
     display: block; }
   .section-heading h2 {
@@ -332,9 +332,9 @@ img {
   min-width: 180px;
   height: 66px;
   border: 1px solid;
-  border-color: #e0a5fc;
+  border-color: #f7e8e8;
   text-transform: uppercase;
-  color: #e0a5fc;
+  color: #f7e8e8;
   font-size: 12px;
   letter-spacing: 1px;
   border-radius: 0;
@@ -342,7 +342,7 @@ img {
   padding: 0;
   background-color: #ffffff; }
   .sonar-btn:hover, .sonar-btn:focus {
-    background-color: #e0a5fc;
+    background-color: #f7e8e8;
     font-size: 12px;
     color: #ffffff; }
   .sonar-btn.white-btn {
@@ -351,13 +351,13 @@ img {
     background-color: transparent; }
     .sonar-btn.white-btn:hover, .sonar-btn.white-btn:focus {
       background-color: #ffffff;
-      color: #e0a5fc; }
+      color: #f7e8e8; }
   .sonar-btn.btn-2 {
-    background-color: #e0a5fc;
+    background-color: #f7e8e8;
     font-size: 12px;
     color: #ffffff; }
   .sonar-btn.btn-3 {
-    background-color: #d499f0;
+    background-color: #ebdcdc;
     color: #ffffff; }
     .sonar-btn.btn-3::before {
       position: absolute;
@@ -365,13 +365,13 @@ img {
       height: 100%;
       background-color: transparent;
       border: 1px solid;
-      border-color: #d499f0;
+      border-color: #ebdcdc;
       right: -6px;
       bottom: -6px;
       content: '';
       z-index: -100; }
     .sonar-btn.btn-3:hover, .sonar-btn.btn-3:focus {
-      background-color: #d499f0;
+      background-color: #ebdcdc;
       color: #ffffff; }
 
 .bg-overlay {
@@ -384,7 +384,7 @@ img {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #e0a5fc;
+    background-color: #f7e8e8;
     opacity: 0.85;
     content: ''; }
 
@@ -481,7 +481,7 @@ img {
       .header-area .menu-content-area .header-social-area {
         margin-right: 15px; } }
   .header-area.sticky {
-    background-color: #d499f0; }
+    background-color: #ebdcdc; }
   @media only screen and (max-width: 767px) {
     .header-area {
       padding: 10px 0; } }
@@ -496,7 +496,7 @@ img {
   height: 100%;
   top: 0;
   right: -500px;
-  background-color: #d499f0;
+  background-color: #ebdcdc;
   z-index: 99999;
   text-align: center;
   -webkit-box-orient: vertical;
@@ -874,7 +874,7 @@ img {
 
 /* :: Hero Area CSS */
 .hero-area {
-  background-color: #d499f0;
+  background-color: #ebdcdc;
   position: relative;
   z-index: 1;
   overflow: hidden;
@@ -1012,8 +1012,8 @@ img {
       margin: 8px 0;
       display: block; }
       .sonar-testimonials-area .owl-dots .owl-dot.active {
-        border-color: #d499f0;
-        background-color: #d499f0; }
+        border-color: #ebdcdc;
+        background-color: #ebdcdc; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .sonar-testimonials-area .owl-dots {
         top: 20%; } }
@@ -1121,7 +1121,7 @@ img {
       font-size: 28px;
       margin-bottom: 5px;
       font-weight: 300;
-      color: #e0a5fc; }
+      color: #f7e8e8; }
       .single-blog-area .post-content .headline:hover, .single-blog-area .post-content .headline:focus {
         font-weight: 300; }
     .single-blog-area .post-content .post-meta {
@@ -1129,7 +1129,7 @@ img {
       .single-blog-area .post-content .post-meta a {
         font-size: 12px;
         font-weight: 500;
-        color: #e0a5fc; }
+        color: #f7e8e8; }
         .single-blog-area .post-content .post-meta a:hover, .single-blog-area .post-content .post-meta a:focus {
           font-size: 12px;
           font-weight: 500; }
@@ -1152,7 +1152,7 @@ img {
   .search-widget-area form button {
     width: 50px;
     height: 42px;
-    background-color: #d499f0;
+    background-color: #ebdcdc;
     color: #ffffff;
     font-size: 16px;
     border: none;
@@ -1176,7 +1176,7 @@ img {
   margin-bottom: 30px; }
   .latest-news-widget-area .widget-single-blog-post .widget-post-content a {
     font-size: 15px;
-    color: #e0a5fc;
+    color: #f7e8e8;
     margin-bottom: 5px;
     font-weight: 300; }
     .latest-news-widget-area .widget-single-blog-post .widget-post-content a:hover, .latest-news-widget-area .widget-single-blog-post .widget-post-content a:focus {
@@ -1221,7 +1221,7 @@ img {
   border-radius: 0;
   font-size: 12px;
   font-style: italic;
-  color: #e0a5fc;
+  color: #f7e8e8;
   background-color: transparent; }
   .contact-form .form-control:focus, .contact-form .form-control:hover {
     box-shadow: none; }
@@ -1380,7 +1380,7 @@ img {
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
         filter: alpha(opacity=0); }
     .single-accordion h6 a.collapsed {
-      background-color: #e0a5fc;
+      background-color: #f7e8e8;
       color: #ffffff; }
       .single-accordion h6 a.collapsed span.accor-close {
         opacity: 0;
@@ -1402,7 +1402,7 @@ img {
   text-align: center; }
   .single-cool-fact-area i {
     font-size: 100px;
-    color: #e0a5fc;
+    color: #f7e8e8;
     margin-bottom: 30px;
     display: block; }
   .single-cool-fact-area img {
@@ -1454,7 +1454,7 @@ img {
 .single-pie-bar p {
   margin-bottom: 0;
   font-weight: 300;
-  color: #e0a5fc; }
+  color: #f7e8e8; }
 @media only screen and (max-width: 767px) {
   .single-pie-bar {
     margin-bottom: 30px; } }
